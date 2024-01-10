@@ -1,4 +1,10 @@
-![WhatsApp202022-10-25203 38 16%20PM](https://github.com/Virat-Tiwari/Revenue_Insights_In_Hospitality_Domain/assets/66154941/dcff0ff9-817a-4cd1-a5c8-1c5de140766d)
+# Revenue Insights In Hospitality Domain
+
+![Thumbnail1](https://github.com/Virat-Tiwari/Revenue_Insights_In_Hospitality_Domain/assets/66154941/1f31bc9c-146d-476d-83e9-484a2f0068bf)
+## AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years.
+### Welcome to the AtliQ Grands Revenue Insights project !  In this project, I have implemented data analytics using Power BI to empower AtliQ Grands with the ability to make data-driven decisions, surpass competitors in the market, and drive growth in various aspects like Market Share & Revenue.
+
+
 
 # Business problem:
 AtliQ Grands is the proud owner of numerous opulent hotels throughout India. Yet, AtliQ Grands finds itself experiencing a decline in both market share and revenue within the luxurious/business hotel sector. I, as a data analyst, figure out the key problem of declining revenue using data analytics.
