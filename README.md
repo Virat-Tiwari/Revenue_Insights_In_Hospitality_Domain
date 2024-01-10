@@ -1,3 +1,5 @@
+![WhatsApp202022-10-25203 38 16%20PM](https://github.com/Virat-Tiwari/Revenue_Insights_In_Hospitality_Domain/assets/66154941/dcff0ff9-817a-4cd1-a5c8-1c5de140766d)
+
 # Business problem:
 AtliQ Grands is the proud owner of numerous opulent hotels throughout India. Yet, AtliQ Grands finds itself experiencing a decline in both market share and revenue within the luxurious/business hotel sector. I, as a data analyst, figure out the key problem of declining revenue using data analytics.
 
@@ -149,3 +151,11 @@ As we can see realisation% and ADR trends by booking platform remained similar a
 - Fixed the issue highlighted by the customer in low-rated hotels to Increase occupancy rate.
 - Dynamic pricing strategy
 - Offering coupons and cashback incentives directly to customers who book rooms through the hotel’s website or offline at checkout THUS INCREASE realization.
+
+# Tools Use :
+
+- power BI
+- MS Excel
+- DAX
+
+# Thank You So MUch !!
