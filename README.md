@@ -154,6 +154,12 @@ As we can see realisation% and ADR trends by booking platform remained similar a
 “realization” in the context of the hospitality industry, refers to the percentage of revenue retained after accounting for cancellations and no-shows.
 
 # Suggestions:
+- Suggested, ways to raise revenue is enhance occupancy rates.
+- Take advantage of late bookings and additional days of stay to increase revenue.
+- Maintyain Occupancy Percentage is maximum on Weekends
+- Maximum bookings are done through others and makeyourtrip platform , must focus on platforms from where people prefer less bookings.
+- Average rating is between 3.65 and 3.6 so try to pull the reasons from the hotels where hotel ratings are very low and fix them ASAP for generating the more engagement.
+- Mumbai is showing high average rating but those cities have rating below 3 so fix them by understanding the reasons behind low ratings.
 - Fixed the issue highlighted by the customer in low-rated hotels to Increase occupancy rate.
 - Dynamic pricing strategy
 - Offering coupons and cashback incentives directly to customers who book rooms through the hotel’s website or offline at checkout THUS INCREASE realization.
